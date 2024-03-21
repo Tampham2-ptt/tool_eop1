@@ -104,6 +104,11 @@ const arr = [
     "Reboot",
     "Secure",
     "Computer code",
+    "feedback",
+    "feature",
+    "durability",
+    "brightness",
+    "powerful",
   ];
 
 function case_one_character(char, quantity){
